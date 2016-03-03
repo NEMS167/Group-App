@@ -20,3 +20,12 @@ Only works if you are around people a lot so it's not a home thing unless you li
 Bonus
 
 For money have locations forward messages including specials or just welcome messages
+
+
+Wireframe Stuff:
+
+<img src='http://i.imgur.com/eVkE7Aq.png' title='Login' />
+<img src='http://i.imgur.com/Di2m3aO.png' title='Sign Up' />
+<img src='http://i.imgur.com/3MoU9Fw.png' title='Feed' />
+<img src='http://i.imgur.com/BPcXyEa.png' title='Messages' />
+<img src='http://i.imgur.com/4ygTnt6.png' title='Me' />
