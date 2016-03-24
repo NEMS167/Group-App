@@ -24,6 +24,8 @@ Users post the headline that they found most interesting that day, with a small 
 <img src='http://i.imgur.com/3MoU9Fw.png' title='Feed' />
 <img src='http://i.imgur.com/BPcXyEa.png' title='Messages' />
 <img src='http://i.imgur.com/4ygTnt6.png' title='Me' />
+<img src='http://imgur.com/2TE96N0.png' title='Updated Wire Frames' />
+
 
 #Data Schema
 The information we will need
